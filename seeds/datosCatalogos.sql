@@ -1,0 +1,5 @@
+-- Responsable: Dev2 | Historia ClickUp: 1.7.1 | RF01, RF06
+-- Datos iniciales sinteticos: 5 categorias y 10 usuarios.
+-- (Los 4 estados de incidente y los 4 niveles de prioridad son enumerados definidos en backend/prisma/schema.prisma.)
+-- TODO: INSERT de 5 categorias (software, hardware, conectividad, aplicaciones, servicios informaticos).
+-- TODO: INSERT de 10 usuarios con nombre, correo y area.
