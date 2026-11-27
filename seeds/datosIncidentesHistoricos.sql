@@ -1,0 +1,4 @@
+-- Responsable: Dev2 | Historia ClickUp: 1.7.2 | RF01, RF06
+-- Datos iniciales sinteticos: 150 incidentes historicos.
+-- TODO: variar fechas, categorias, prioridades y estados.
+-- TODO: los incidentes Resueltos/Cerrados deben tener fechaCierre posterior a fechaCreacion (para calcular tiempos de resolucion).
