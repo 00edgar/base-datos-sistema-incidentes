@@ -1,0 +1,3 @@
+-- Responsable: Dev2 | Historia ClickUp: 2.4.3 | RF06
+-- Cifras de control para comparar contra los endpoints y el dashboard.
+-- TODO: conteos simples (total, por categoria, resueltos) calculados de forma independiente.
