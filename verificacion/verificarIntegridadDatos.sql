@@ -1,0 +1,5 @@
+-- Responsable: Dev2 | Historia ClickUp: 1.6.2 | RF01-RF08
+-- Pruebas negativas de FKs, CHECK e indices: cada sentencia debe FALLAR.
+-- TODO: insertar incidente con categoria inexistente.
+-- TODO: insertar calificacion con puntuacion 0 o 6.
+-- TODO: insertar fuente con similitud fuera de 0 a 1.
