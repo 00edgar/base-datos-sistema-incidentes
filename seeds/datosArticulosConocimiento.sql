@@ -1,0 +1,5 @@
+-- Responsable: Dev1 | Historia ClickUp: 1.4.1 y 1.4.2 | RF02
+-- Datos iniciales sinteticos: 25 articulos tecnicos en las 5 categorias.
+-- TODO: titulo, problema, sintomas, causa y solucion por articulo.
+-- TODO: mezclar articulos activos/verificados con inactivos/no verificados (para probar la regla de fuentes).
+-- TODO: documentar al inicio que los datos son sinteticos.
